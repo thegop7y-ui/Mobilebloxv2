@@ -1,0 +1,119 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 21 min SDK version: arm64-v8a",
+    "file_": "/data/data/com.termux/files/home/MovileBloxV2-arm64-v8a/app/src/main/jni/Android.mk",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON /data/data/com.termux/files/home/MovileBloxV2-arm64-v8a/app/build/.cxx/Debug/4a5f23a2/arm64-v8a/android_gradle_build.json due to:",
+    "file_": "/data/data/com.termux/files/home/MovileBloxV2-arm64-v8a/app/src/main/jni/Android.mk",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "- no fingerprint file, will remove stale configuration folder",
+    "file_": "/data/data/com.termux/files/home/MovileBloxV2-arm64-v8a/app/src/main/jni/Android.mk",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027/data/data/com.termux/files/home/MovileBloxV2-arm64-v8a/app/build/.cxx/Debug/4a5f23a2/arm64-v8a\u0027",
+    "file_": "/data/data/com.termux/files/home/MovileBloxV2-arm64-v8a/app/src/main/jni/Android.mk",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027/data/data/com.termux/files/home/MovileBloxV2-arm64-v8a/app/build/.cxx/Debug/4a5f23a2/arm64-v8a\u0027",
+    "file_": "/data/data/com.termux/files/home/MovileBloxV2-arm64-v8a/app/src/main/jni/Android.mk",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "executing ndkBuild /data/data/com.termux/files/home/android-sdk/ndk/26.1.10909125/ndk-build \\\n  NDK_PROJECT_PATH\u003dnull \\\n  APP_BUILD_SCRIPT\u003d/data/data/com.termux/files/home/MovileBloxV2-arm64-v8a/app/src/main/jni/Android.mk \\\n  NDK_APPLICATION_MK\u003d/data/data/com.termux/files/home/MovileBloxV2-arm64-v8a/app/src/main/jni/Application.mk \\\n  APP_ABI\u003darm64-v8a \\\n  NDK_ALL_ABIS\u003darm64-v8a \\\n  NDK_DEBUG\u003d1 \\\n  APP_PLATFORM\u003dandroid-21 \\\n  NDK_OUT\u003d/data/data/com.termux/files/home/MovileBloxV2-arm64-v8a/app/build/intermediates/cxx/Debug/4a5f23a2/obj \\\n  NDK_LIBS_OUT\u003d/data/data/com.termux/files/home/MovileBloxV2-arm64-v8a/app/build/intermediates/cxx/Debug/4a5f23a2/lib \\\n  APP_SHORT_COMMANDS\u003dfalse \\\n  LOCAL_SHORT_COMMANDS\u003dfalse \\\n  -B \\\n  -n\n",
+    "file_": "/data/data/com.termux/files/home/MovileBloxV2-arm64-v8a/app/src/main/jni/Android.mk",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "/data/data/com.termux/files/home/android-sdk/ndk/26.1.10909125/ndk-build \\\n  NDK_PROJECT_PATH\u003dnull \\\n  APP_BUILD_SCRIPT\u003d/data/data/com.termux/files/home/MovileBloxV2-arm64-v8a/app/src/main/jni/Android.mk \\\n  NDK_APPLICATION_MK\u003d/data/data/com.termux/files/home/MovileBloxV2-arm64-v8a/app/src/main/jni/Application.mk \\\n  APP_ABI\u003darm64-v8a \\\n  NDK_ALL_ABIS\u003darm64-v8a \\\n  NDK_DEBUG\u003d1 \\\n  APP_PLATFORM\u003dandroid-21 \\\n  NDK_OUT\u003d/data/data/com.termux/files/home/MovileBloxV2-arm64-v8a/app/build/intermediates/cxx/Debug/4a5f23a2/obj \\\n  NDK_LIBS_OUT\u003d/data/data/com.termux/files/home/MovileBloxV2-arm64-v8a/app/build/intermediates/cxx/Debug/4a5f23a2/lib \\\n  APP_SHORT_COMMANDS\u003dfalse \\\n  LOCAL_SHORT_COMMANDS\u003dfalse \\\n  -B \\\n  -n\n",
+    "file_": "/data/data/com.termux/files/home/MovileBloxV2-arm64-v8a/app/src/main/jni/Android.mk",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "Received process result: 1",
+    "file_": "/data/data/com.termux/files/home/MovileBloxV2-arm64-v8a/app/src/main/jni/Android.mk",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed with problem. Exception: com.android.ide.common.process.ProcessException: ERROR: Unknown host CPU architecture: aarch64\n\nC++ build system [configure] failed while executing:\n    /data/data/com.termux/files/home/android-sdk/ndk/26.1.10909125/ndk-build \\\n      NDK_PROJECT_PATH\u003dnull \\\n      APP_BUILD_SCRIPT\u003d/data/data/com.termux/files/home/MovileBloxV2-arm64-v8a/app/src/main/jni/Android.mk \\\n      NDK_APPLICATION_MK\u003d/data/data/com.termux/files/home/MovileBloxV2-arm64-v8a/app/src/main/jni/Application.mk \\\n      APP_ABI\u003darm64-v8a \\\n      NDK_ALL_ABIS\u003darm64-v8a \\\n      NDK_DEBUG\u003d1 \\\n      APP_PLATFORM\u003dandroid-21 \\\n      NDK_OUT\u003d/data/data/com.termux/files/home/MovileBloxV2-arm64-v8a/app/build/intermediates/cxx/Debug/4a5f23a2/obj \\\n      NDK_LIBS_OUT\u003d/data/data/com.termux/files/home/MovileBloxV2-arm64-v8a/app/build/intermediates/cxx/Debug/4a5f23a2/lib \\\n      APP_SHORT_COMMANDS\u003dfalse \\\n      LOCAL_SHORT_COMMANDS\u003dfalse \\\n      -B \\\n      -n\n  from /data/data/com.termux/files/home/MovileBloxV2-arm64-v8a/app",
+    "file_": "/data/data/com.termux/files/home/MovileBloxV2-arm64-v8a/app/src/main/jni/Android.mk",
+    "tag_": "debug|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  }
+]
