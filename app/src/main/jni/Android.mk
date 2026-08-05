@@ -216,10 +216,10 @@ reflection/instance.hpp \
 renderer/renderer.hpp \
 roblox/update.hpp \
 roblox/hooks.hpp \
-taskscheduler/taskscheduler.hpp \ 
-utils/utils.hpp \
+taskscheduler/taskscheduler.hpp \
+utils/utils.hpp
 
-LOCAL_SRC_FILES :=  callcheck/callcheck.cpp \ \
+LOCAL_SRC_FILES := callcheck/callcheck.cpp \
 dependencies/cpr/auth.cpp \
 dependencies/cpr/cookies.cpp \
 dependencies/cpr/cprtypes.cpp \
