@@ -1,0 +1,1 @@
+/data/data/com.termux/files/usr/bin/c++ -O2 -g -DNDEBUG -Xlinker --dependency-file=CMakeFiles/native_test.dir/link.d CMakeFiles/native_test.dir/hello.cpp.o -o native_test

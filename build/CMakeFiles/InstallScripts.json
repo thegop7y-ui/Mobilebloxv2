@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/data/data/com.termux/files/home/MovileBloxV2-arm64-v8a/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
