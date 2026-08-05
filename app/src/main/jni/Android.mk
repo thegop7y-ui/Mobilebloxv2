@@ -11,21 +11,21 @@ include $(PREBUILT_STATIC_LIBRARY)
 include $(CLEAR_VARS)
 
 LOCAL_MODULE := libcurl
-LOCAL_SRC_FILES := dependencies/dobby/$(TARGET_ARCH_ABI)/libcurl.a
+LOCAL_SRC_FILES := dependencies/curl/$(TARGET_ARCH_ABI)/libcurl.a
 LOCAL_EXPORT_C_INCLUDES := $(LOCAL_PATH)/dependencies/curl
 include $(PREBUILT_STATIC_LIBRARY)
 
 include $(CLEAR_VARS)
 
 LOCAL_MODULE := libssl
-LOCAL_SRC_FILES := dependencies/dobby/$(TARGET_ARCH_ABI)/libssl.a
+LOCAL_SRC_FILES := dependencies/curl/$(TARGET_ARCH_ABI)/libssl.a
 LOCAL_EXPORT_C_INCLUDES := $(LOCAL_PATH)/dependencies/curl
 include $(PREBUILT_STATIC_LIBRARY)
 
 include $(CLEAR_VARS)
 
 LOCAL_MODULE := libcrypto
-LOCAL_SRC_FILES := dependencies/dobby/$(TARGET_ARCH_ABI)/libcrypto.a
+LOCAL_SRC_FILES := dependencies/curl/$(TARGET_ARCH_ABI)/libcrypto.a
 LOCAL_EXPORT_C_INCLUDES := $(LOCAL_PATH)/dependencies/curl
 include $(PREBUILT_STATIC_LIBRARY)
 
